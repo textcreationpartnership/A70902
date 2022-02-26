@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King and Queen at White-Hall, April XVI, 1690 being the fast-day / by ... Symon, Lord Bishop of Chichester.</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70902</idno>
+            <idno type="STC">Wing P849</idno>
+            <idno type="STC">ESTC R22929</idno>
+            <idno type="EEBO-CITATION">12745159</idno>
+            <idno type="OCLC">ocm 12745159</idno>
+            <idno type="VID">93241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93241)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 727:6 or 1621:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King and Queen at White-Hall, April XVI, 1690 being the fast-day / by ... Symon, Lord Bishop of Chichester.</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[4], 34, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Errata: p. 34.</note>
+                  <note>Half title: The Bishop of Chichester's fast-sermon before the King and Queen, April xvi, 1690.</note>
+                  <note>Item at reel position 1621:12 identified as Wing P852 (number cancelled).</note>
+                  <note>Reproduction of originals in the Huntington Library and the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XIV, 34 --  Sermons.</term>
+               <term>Fast-day sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93241:1"/>
+            <pb facs="tcp:93241:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED before the KING and QUEEN AT WHITE-HALL APRIL XVI. 1690.</p>
+            <p>BEING THE FAST-DAY.</p>
+            <p>By the Right Reverend Father in God, <hi>SYMON</hi> Lord Biſhop of <hi>Chicheſter.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by their Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwell,</hi> at the Roſe and Crown in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> MDCXC.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:93241:2"/>
+            <pb facs="tcp:93241:2"/>
+            <p>THE BISHOP of <hi>CHICHESTER</hi>'s FAST-SERMON Before the KING and QUEEN APRIL xvi. 1690.</p>
+            <pb facs="tcp:93241:3"/>
+            <pb facs="tcp:93241:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93241:4"/>
+            <pb n="1" facs="tcp:93241:4"/>
+            <head>A SERMON Preached before the KING and QUEEN AT <hi>WHITE-HALL, April</hi> 16. 1690. BEING THE FAST-DAY.</head>
+            <epigraph>
+               <bibl>PROV. xiv. 34.</bibl>
+               <q>Righteouſneſs exalteth a nation: but Sin is a reproach to any people.</q>
+            </epigraph>
+            <p>IF we enlarge our thoughts beyond our own nar<g ref="char:EOLhyphen"/>row particular beings, and look upon our ſelves as Members of a Community; we cannot but think it our intereſt to indeavour its ſafety, no leſs than the preſervation of our natural body: Whoſe health ought not to be dearer to us, than the
+<pb n="2" facs="tcp:93241:5"/>
+proſperous and flouriſhing eſtate of the Countrey where we live.</p>
+            <p>Which if we heartily wiſh (as we ſeem to do by our aſſembling here together to implore the Bleſſing of Heaven upon their Majeſtres, and the Forces they imploy for our preſervation) it con<g ref="char:EOLhyphen"/>cerns us to apply our ſelves unto the ſerious uſe of all thoſe means, which we ſee to be neceſſary for the making our Prayers ſucceſsful.</p>
+            <p>Now there is no Book in the Holy Scriptures, which gives us fuller directions, in the way to make, not only private <hi>Perſons,</hi> and <hi>Families,</hi> but whole <hi>Kingdoms</hi> and <hi>States</hi> happy, than this of <hi>Solomon:</hi> who compriſes them all in this general Maxime here in my Text, <hi>Righteouſneſs exalteth a nation,</hi> &amp;c.</p>
+            <p>I will not vex our <hi>Tranſlation,</hi> nor examine the exactneſs of it in the latter part of the Verſe, which may be otherwiſe rendred: But conſider the words as an ancient <hi>Proverb;</hi> grounded on great reaſon, conſtant obſervation, and long ex<g ref="char:EOLhyphen"/>perience; which aſſured King <hi>Solomon</hi> of theſe <hi>two</hi> things. <hi>Firſt,</hi> Of the certain way and means to make a Nation Great, Honourable and Famous: <hi>Secondly</hi> on the contrary, of the no leſs certain way and means to lay it low, and make it baſe and vile in the eyes of all the World.</p>
+            <p>Theſe are the two parts of my Text, the <hi>firſt</hi> of which is expreſſed in the beginning of the words; <hi>Righteouſneſs exalteth a nation:</hi> That's the way to make it great and glorious. The <hi>ſecond,</hi> in the latter part of the Verſe, <hi>ſin is a reproach to any peo<g ref="char:EOLhyphen"/>ple:</hi> That's the way to lay them low, were they
+<pb n="3" facs="tcp:93241:5"/>
+never ſo high, in riches, reputation and all other things, before.</p>
+            <p>The <hi>firſt</hi> of theſe being evidently proved, will neceſſary infer the <hi>ſecond:</hi> And therefore, after a brief explication of what is meant here by <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> I ſhall endeavour, in the reſt of my Diſ<g ref="char:EOLhyphen"/>courſe, to make good the truth of what <hi>Solomon</hi> aſſerts concerning it; by ſhowing, how a Nation is raiſed and advanced by Righteouſneſs.</p>
+            <p>It is certain that <hi>Righteouſneſs</hi> hath a threefold ſignification in Scripture; yea, in this very Book of the <hi>Proverbs.</hi>
+            </p>
+            <p>1. Where <hi>firſt,</hi> it ſignifies that particular vertue, which we call <hi>Juſtice</hi> and honeſt dealing: which conſiſts, in giving to every one, that which pro<g ref="char:EOLhyphen"/>perly belongs to him. Thus the Wiſe Man uſes the word in <hi>Prov.</hi> XVI. 8. <hi>Better is a little with righ<g ref="char:EOLhyphen"/>teouſneſs, than great Revenues without right.</hi> i. e. A ſmall Eſtate honeſtly gotten, is to be preferred be<g ref="char:EOLhyphen"/>fore a great one, gotten by fraud and doing wrong to others.</p>
+            <p>2. Sometimes the ſignification is inlarged, to include in it another vertue alſo, <hi>viz. Mercy</hi> and Charity. In which ſenſe the Wiſe man ſeems to uſe it (to omit other places) <hi>Prov.</hi> XI. 4. <hi>Riches profit not in the day of wrath</hi> (i. e. in a calamitous time) <hi>but righteouſneſs</hi> (i. e. doing good with our riches) <hi>delivereth from death;</hi> may preſerve us in he greateſt dangers.</p>
+            <p>
+               <pb n="4" facs="tcp:93241:6"/>3. But there is another acceptation of theſe words, which is more comprehenſive: Wherein it ſignifies not only <hi>theſe;</hi> but all other vertues whatſoever: <hi>
+                  <g ref="char:V">Ʋ</g>niverſal obedience to the Laws of God.</hi> And thus it is commonly taken in this Book; particularly, here in my Text, as appears from that which is oppoſed to it, in the latter part of the words, <hi>viz. Sin.</hi> Which moſt certainly ſignifies all ſorts of wickedneſs; and therefore by <hi>righteouſ<g ref="char:EOLhyphen"/>neſs</hi> we ought to underſtand all manner of Vertue: <hi>Piety</hi> and <hi>Holineſs;</hi> as well as <hi>Juſtice</hi> and <hi>Mercy.</hi> In one word, <hi>true Religion:</hi> Which I may ſafely uſe inſtead of the word <hi>Righteouſneſs;</hi> as com<g ref="char:EOLhyphen"/>prehending under it whatſoever is good and ver<g ref="char:EOLhyphen"/>tuous; which ſprings from <hi>true Religion</hi> and the fear of God.</p>
+            <p>Now theſe things being premiſed, I ſhall addreſs my ſelf to the proof of this Propoſition: That <hi>true Religion and Piety</hi> (which is the Mother of Juſtice, Mercy, Moderation, and all other vertues) <hi>exalteth a Nation:</hi> That is, makes it truly great and honourable; of great power, and in great eſteem in the World.</p>
+            <p>Which it doth (1.) in it ſelf; and (2.) by ver<g ref="char:EOLhyphen"/>tue of its own natural fruits and Conſequences: And (3.) by procuring the Bleſſing of Divine Providence upon that Countrey where it flou<g ref="char:EOLhyphen"/>riſhes.</p>
+            <div n="1" type="part">
+               <pb n="5" facs="tcp:93241:6"/>
+               <head>I.</head>
+               <p>
+                  <hi>Firſt,</hi> I ſay, Righteouſneſs, that is, true Re<g ref="char:EOLhyphen"/>ligion, <hi>in it ſelf,</hi> promotes and advances the glory of a Nation: being, in its own Na<g ref="char:EOLhyphen"/>ture, a truly great, noble, and honourable thing: Which every Man praiſes and commends in others, though perhaps he doth not love to practiſe it himſelf. For who is there, for inſtance, that doth not rather love and honour a People, that<g ref="char:punc">▪</g> are <hi>juſt, holy,</hi> and <hi>devout;</hi> than a Nation that is meerly <hi>rich, powerful,</hi> and <hi>mighty?</hi> It is poſſi<g ref="char:EOLhyphen"/>ble a Nation may be ſo for a time, though it do not ſtand upon the Foundations of Truth, Juſtice and Piety; but it is impoſſible it ſhould laſt ſo long: and while it doth continue ſo, what is its <hi>Power,</hi> without <hi>Piety,</hi> but an ability to do Miſchief, and to deſtroy; which is hate<g ref="char:EOLhyphen"/>ful to all the World?</p>
+               <p>The greateſt <hi>Monarchs</hi> have ſometimes been the greateſt <hi>Spoilers:</hi> Who, though they were feared, yet were never truely honoured. Though they acquired ſome fame, they never had any Reputation, or Eſteem. Though they were cryed up, becauſe dreaded, while alive; yet they were always ſcorned, becauſe hated, when they were dead.</p>
+               <p>Whereas, on the contrary, Religious Princes, ſuch as are Holy towards God, and Merciful towards Men; ſober in their Counſels and Con<g ref="char:EOLhyphen"/>duct: firm to their Compacts and Promiſes; faithful to their Aliances, have always gained
+<pb n="6" facs="tcp:93241:7"/>
+the Love and Honour of all thoſe that read their Story.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>But as Righteouſneſs and True Religion, is <hi>in it ſelf</hi> noble and honourable, highly eſteemed by all Men; and thereby a means to make a Nation glorious: ſo it doth much more pro<g ref="char:EOLhyphen"/>mote the glory and intereſt of it, <hi>by its natural Conſequences;</hi> on which I ſhall longer inſiſt.</p>
+               <p>I. And that, firſt of all, becauſe True Religion and Vertue, <hi>promotes induſtry:</hi> which is the very Nerves and Sinews of every Commonwealth. It puts every Man into ſome Calling and Im<g ref="char:EOLhyphen"/>ployment (not ſuffering Princes to live idly) and makes every Calling active and induſtrious; and Induſtry gains Wealth and Riches; and Riches gained by honeſt induſtry procure Power, Intereſt, and Reputation in the World. For <hi>in all labour</hi> (ſaith this wiſe Man, <hi>ver.</hi> 23. of this Chapter) <hi>there is profit: but the talk of the lips tendeth only to penury.</hi> Induſtry and Labour are always beneficial, and bring many advantages along with them: but where time is ſpent in vain Company and frivolous Diſcourſes, in hear<g ref="char:EOLhyphen"/>ing what every one will tell, and telling again what hath been heard; there follows Poverty, upon ſuch miſ-ſpence of time; and ſhame and mi<g ref="char:EOLhyphen"/>ſery follow that. According to that which we read in XII. Chapter 11. <hi>He that tilleth his land ſhall be ſatisfied with bread: but he that followeth vain perſons, is void of underſtanding.</hi> As if he ſaid,
+<pb n="7" facs="tcp:93241:7"/>
+He that minds the buſineſs, unto which God and the nature of his Station calls<g ref="char:punc">▪</g> him, ſhall want nothing convenient for him: but he who abandons himſelf to the company of thoſe, who lead vain, idle, and uſeleſs lives, ſhall live in ſhame, and die in beggary; and ſo betray himſelf to be a Man void of all underſtan<g ref="char:EOLhyphen"/>ding.</p>
+               <p>Idle and extravagant perſons, are the very peſts of the Commonwealth: who lie as an heavy burden upon the Shoulders of others; be<g ref="char:EOLhyphen"/>cauſe they live wholly to waſte and ſpend, de<g ref="char:EOLhyphen"/>vour and conſume. They eat the fruit of other Mens labours, and drink the Sweat of their Neighbours Brows. Every thing is but a <hi>prey</hi> to them: who are little better than thoſe that rob and ſpoil; for they live by the Conſumpti<g ref="char:EOLhyphen"/>on of other People. Which, by the way, ſhould excite all that have any authority, to cor<g ref="char:EOLhyphen"/>rect this Vice, according to the wholſome Laws provided againſt it: which would be a part of that Reformation, on which it is the very buſineſs of this day to reſolve, as the means to make us an happy Nation.</p>
+               <p>For, on the other hand, the laborious and in<g ref="char:EOLhyphen"/>duſtrious Man maintains that Station wherein God hath placed him, though never ſo mean, againſt the invaſion of want and poverty; and againſt thoſe dreadful effects of Poverty, which frequently throw a Nation into terrible Con<g ref="char:EOLhyphen"/>vulſions, by producing in it Sedition and Con<g ref="char:EOLhyphen"/>fuſion.</p>
+               <p>
+                  <pb n="8" facs="tcp:93241:8"/>Is not a Nation then beholden to Reli<g ref="char:EOLhyphen"/>gion, more than to any thing elſe, even upon this account; that by putting Men upon In<g ref="char:EOLhyphen"/>duſtry and Labour; and making it a piece of Conſcience not to waſte ones time vainly, it prevents thoſe inſufferable miſchiefs, which grow out of idleneſs, ſloth and luxury?</p>
+               <p>Which might be further demonſtrated from a known effect of true Religion and the fear of God; which is <hi>Sobriety, Moderation,</hi> and <hi>Fru<g ref="char:EOLhyphen"/>gality:</hi> which are both the Parent, and the pro<g ref="char:EOLhyphen"/>duct of Induſtry. Which Induſtry, I might al<g ref="char:EOLhyphen"/>ſo ſhow, is not only the Mother of Riches, but of <hi>Wiſdom</hi> alſo, Learning, Knowledge, and Underſtanding of all manner of things; whether Natural, Moral, Political, or Divine. Which are not gotten by idleneſs; but conſtantly procured, in ſome meaſure, by labour and pains. That is, ſome men by their Induſtry get Wiſdom and Knowledge; Others, whoſe genius lies not that way, get Riches and Wealth; and there are thoſe who get both: and are all highly ſervice<g ref="char:EOLhyphen"/>able unto the Nation; to advance the greatneſs, the power, the credit, and the glory of it.</p>
+               <p>But having many things to ſay, I omit all further Diſcourſe of theſe Conſiderations; and deſire you,</p>
+               <p>II. <hi>Secondly,</hi> To conſider, that as Righteouſ<g ref="char:EOLhyphen"/>neſs, that is, True Religion promotes <hi>private Induſtry,</hi> and by that means tends to the ad<g ref="char:EOLhyphen"/>vancement of a Nation; ſo it alſo diſpoſes Men (which is a far greater thing) to <hi>mind
+<pb n="9" facs="tcp:93241:8"/>
+the publick good</hi> and honour of the Nation, where they live.</p>
+               <p>There is no good Man, who hath a true ſenſe of Religion and Vertue, who doth not con<g ref="char:EOLhyphen"/>ſider that he was not born meerly for himſelf; but to help forward the good of others alſo, e<g ref="char:EOLhyphen"/>ven of the whole Country whereof he is a Mem<g ref="char:EOLhyphen"/>ber. For next to the duty we owe unto <hi>God</hi> who made us all, and unto our <hi>Parents</hi> who brought us into the World, all Vertuous Men have always placed the duty we owe out <hi>Coun<g ref="char:EOLhyphen"/>try.</hi> And the more any Man minds the <hi>firſt</hi> of theſe, his duty towards God; the more reli<g ref="char:EOLhyphen"/>giouſly will he mind the <hi>laſt,</hi> the ſafety and honour of his Country. Which ought to be ſo dear unto us, that no private Friendſhips, no, nor the duty our Natural Parents challenge from us, ought in ſome Caſes, to come in com<g ref="char:EOLhyphen"/>petition with it. Thus Men of worth in the ſeveral Ages and Nations of the World, have ever thought.</p>
+               <p>Which makes our ſhame here in <hi>England</hi> the greater, who of late years have had ſo little regard to this, which of all other things ought to have been moſt affectionately tendered. And what was the reaſon of it, but an inun<g ref="char:EOLhyphen"/>dation of all manner of Vice and Wickedneſs upon us? This was the general cauſe of it. And more particularly, <hi>Senſuality, Avarice, Ambition, Atheiſm</hi> and <hi>Infidelity</hi> (which are the Fountain of all Vice) are very baſe and poor ſpirited things.</p>
+               <p>
+                  <pb n="10" facs="tcp:93241:9"/>For a vitious Man is, at the beſt, but a craf<g ref="char:EOLhyphen"/>ty and ſubtil Beaſt; and the Beaſts mind no<g ref="char:EOLhyphen"/>thing but themſelves; or that which they look upon as a part of themſelves, their young ones; and that only, while they are young.</p>
+               <p>Who ever knew an Atheiſt truly uſeful, or ſerviceable to his Country? Who can name one that ever lookt much beyond himſelf and his own private intereſts and pleaſures? And, indeed, how ſhould he do any thing noble and gene<g ref="char:EOLhyphen"/>rous for his Country (when it will expoſe him to any danger or trouble) who cannot hope for a reward from God for what he doth?</p>
+               <p>How ſhould an idle Companion, and a ſen<g ref="char:EOLhyphen"/>ſual Perſon, a Man abandoned to his eaſe, his luſt, and bodily pleaſure, a Man that loves no body but himſelf; be concerned for the good of his Country? No, let the Laws and Liber<g ref="char:EOLhyphen"/>ties of it, ſink or ſwim; it is alike to him. For let his Relations, Friends, and Family beg or ſtarve; Nay, let his Heir be in danger to ask a morſel of Bread at his Neighbour's Door (for ſome of theſe Men are not ſo good as the Beaſts, who have a care of their young ones) he will have his pleaſure, when his Luſts have beſotted him. They muſt be fed, and his Va<g ref="char:EOLhyphen"/>nity muſt be gratified; as long as he is able to make proviſion for them. Let ſhame and in<g ref="char:EOLhyphen"/>famy, the hatred and ill will of the whole Na<g ref="char:EOLhyphen"/>tion fall upon him, he regards it not: for his whole care is for his own Carkaſs, to fulfil the luſts thereof.</p>
+               <p>
+                  <pb n="11" facs="tcp:93241:9"/>Which is the nature alſo of Covetous and Am<g ref="char:EOLhyphen"/>bitious men; who, to raiſe themſelves, will not ſtick to ruin their Country. This is moſt mani<g ref="char:EOLhyphen"/>feſtly a very great Plague to the Common-wealth: Where there are many of this ſort of men in it.</p>
+               <p>But now, on the contrary, that holy Religion, which teaches us to love our Neighbours as our ſelves, and not revengefully, or malitiouſly to hurt our Enemies; teaches us much more to love our Country: for the ſake of which, the better ſort of Heathens did not grudge to deny, nay to hazzard themſelves, to preſerve it in ſafety. And there<g ref="char:EOLhyphen"/>fore he who is a good Chriſtian; that is, lives ac<g ref="char:EOLhyphen"/>cording to the Laws of our Religion, is of a free, generous, and publick Spirit: willing to lay out himſelf, nay to ſuffer for the Common good.</p>
+               <p>If there be an occaſion to ſerve himſelf, by diſ<g ref="char:EOLhyphen"/>ſerving the Publick, he will keep his hands clear and pure from ſuch fooliſh baſeneſs; and ſerve his Country faithfully and juſtly: knowing that therein he moſt effectually ſerves himſelf, and ſhall gain by it both in this World and in the next.</p>
+               <p>Thus is that again verified which the man here affirms, as he had done before XI. 11. <hi>By the bleſ<g ref="char:EOLhyphen"/>ſing of the <g ref="char:V">Ʋ</g>pright the City is exalted.</hi> Upright Piety highly tends to the advancement of a peo<g ref="char:EOLhyphen"/>ples happineſs; both as it puts men upon labour and induſtry; and as it makes them labour for the publick good.</p>
+               <p>
+                  <pb n="12" facs="tcp:93241:10"/>III. Unto which add, in the <hi>third</hi> place, that Religion and Vertue, makes a Nation <hi>ſtrong and powerful:</hi> And that, not only by the means before mentioned; but by procuring likewiſe <hi>
+                     <g ref="char:V">Ʋ</g>nity, Con<g ref="char:EOLhyphen"/>cord, and Agreement</hi> among fellow-Citizens and Countrymen: who are preſerved by being knit to<g ref="char:EOLhyphen"/>gether in Love, but undone by Diſcord and Diſ<g ref="char:EOLhyphen"/>ſention.</p>
+               <p>Now true Religion combines men together, and ſo makes them mighty and formidable; <hi>Firſt,</hi> by removing the Cauſes of diviſion; and <hi>Secondly,</hi> by making them feel the happy effects of peace and quietneſs.</p>
+               <p>The cauſes of diviſion are Pride, Conceitedneſs, Self-will, Covetouſneſs, Ambition, Self-love, Hatred, Revenge, and ſuch like Luſts; from whence, as St. <hi>James</hi> obſerves, come Quarrelings, and Fightings: That is, from want of true Reli<g ref="char:EOLhyphen"/>gion, which would cure men of all theſe evil qua<g ref="char:EOLhyphen"/>lities: and make them feel themſelves happy, in mutual Love, and humble Charity; as well as by the practice of juſtice and truth.</p>
+               <p>For no man is either oppreſſed himſelf, or hath any inclination to oppreſs others, when he doth as he would be done by: not only, by abſtaining from doing injury to others, becauſe he would not be in<g ref="char:EOLhyphen"/>jured by them; but by relieving, aſſiſting, and doing good to others, becauſe he would be ſo dealt withal, were he in need of their ſuccour. That is, when true Charity and Brotherly kindneſs is added unto juſtice and truth (as it is, where true Reli<g ref="char:EOLhyphen"/>gion
+<pb n="13" facs="tcp:93241:10"/>
+prevails) in what an happy Condition is that Nation? where every one finds his Neigh<g ref="char:EOLhyphen"/>bours eaſy and kind to him; and he himſelf is eaſy to himſelf. For when is a Man more at eaſe, than when he hath no difference with any Body; no Quarrels, no Contention, no Heart<g ref="char:EOLhyphen"/>burnings, nor evil Surmiſes: but his Soul is full of Love and Good-will towards others, being knit to them in ſincere Affection, not only as his Neighbour, but as his Brethren and Friends.</p>
+               <p>This is the Effect of True Religion; and the Effect of this is great Peace, and conſequently, Proſperity at Home. Where, as Nothing more diſhonours a Nation, and indangers it, than Do<g ref="char:EOLhyphen"/>meſtick Broils, or oppoſite Factions; which are always bandying one againſt the other, to the great damage, as well as diſgrace of all: So theſe are all prevented, or preſently quieted by Religion and Vertue; to the great Honour and Glory, both of Religion, and of the Nation, which is ſo happy as to be under the bleſſed In<g ref="char:EOLhyphen"/>fluences thereof.</p>
+               <p>The beſt Men indeed are liable to great In<g ref="char:EOLhyphen"/>firmities; which may ſometimes make them troubleſome unto themſelves, and unto others: through Miſinformation, through Miſtake, through Surpriſe, through Paſſion, and the like. But theſe not being wilful Evils, cannot prove very hurtful, nor be of long continuance. And beſides, where true Religion poſſeſſes the Heart, it makes Men, on one hand, ſo <hi>charitable,</hi> as to bear and to pardon ſuch Infirmities; and, on the other hand, ſo <hi>humble,</hi> as to make the beſt
+<pb n="14" facs="tcp:93241:11"/>
+amends they can for any Harm they have done by their Miſtake or Paſſion, and to be more careful and kind for the time to come. For that commonly is the Effect of little Quarrels among good Men: who are ſo much the faſter Friends, when they ſee their Errors, and have begg'd Pardon, and obtained and granted mutual For<g ref="char:EOLhyphen"/>giveneſs.</p>
+               <p>Would to God it might be the Effect of our lamentable Differences and Contentions, in la<g ref="char:EOLhyphen"/>ter Years (as in all Reaſon it ought to be) to make us very fearful how we fall into the like again; at leaſt to correct that Sharpneſs, that Acrimony and Hatred wherewith thoſe Differen<g ref="char:EOLhyphen"/>ces were managed; to the great ſcandal of our Religion, and the expoſing us all to be a Prey unto our Common Enemy.</p>
+               <p>There will be ſtill Occaſions of Quarrelling, if we be ſo fooliſh as to lay hold on them and im<g ref="char:EOLhyphen"/>prove them. For we ſhall never be all of one Opinion in every thing; which will occaſion Diſputes; and they may occaſion Heats; and they may beget Eſtrangements one from ano<g ref="char:EOLhyphen"/>ther; and thence may ariſe Animoſities, and open Breaches: Unleſs we moderate our ſelves, and religiouſly conſider what we are a doing, what Miſchiefs we are drawing upon our ſelves, when we engage ſo fiercely in Conteſts; about things perhaps of ſmall moment, or things in which Men will never be agreed, but there will be different Judgments concerning them.</p>
+               <p>Let us, as was ſaid before, be touched with ſuch a lively ſenſe, that we are Members of one
+<pb n="15" facs="tcp:93241:11"/>
+and the very ſame Body, and prefer the Publick Good, before our own Private Opinions and In<g ref="char:EOLhyphen"/>tereſts; and this will have a greater Power to knit us faſter together, than any thing elſe can have to divide us one from another. If we have any regard to this, to the Safety of our Nation, to the Safety of our Religion, not only here, but in all other Proteſtant Countries abroad; We cannot but be inclined thereby to join our Coun<g ref="char:EOLhyphen"/>ſels, our Studies and Endeavours, as well as our Prayers, for the preventing or quieting of all new Quarrels among us. That, as we had almoſt undone our ſelves by our Hatreds and bitter Contentions; ſo we may be preſerved by a firm Union, in ſincere Love and brotherly Af<g ref="char:EOLhyphen"/>fection.</p>
+               <p>Which is a Vertue, that our Holy Religion commends unto us above all other things. <hi>Put on (as the Elect of God, Holy and Beloved) Bow<g ref="char:EOLhyphen"/>els of Mercy, Kindneſs, Humbleneſs of Mind, Meekneſs, Long-ſuffering; forbearing one another, and forgiving one another, if any Man have a quarrel againſt any. And above all theſe things, put on Charity, which is the Bond of Perfectneſs. And let the Peace of God rule in your Hearts, to the which alſo ye are called in one Body.</hi> Col. 3. 12, 13, <hi>&amp;c.</hi> Which the ſame Apoſtle preſſes upon the <hi>Philippians,</hi> in the moſt paſſionate and mo<g ref="char:EOLhyphen"/>ving manner imaginable; (<hi>Phil.</hi> 2. 1, 2.) <hi>If there be any Conſolation in Chriſt, if any Comfort in Love,</hi> (which we cannot but feel to be exceed<g ref="char:EOLhyphen"/>ing great, if we be under the Power of it) <hi>if any fellowſhip of the Spirit, if any Bowels and
+<pb n="16" facs="tcp:93241:12"/>
+Mercies; fulfil ye my joy, that ye be like-minded, having the ſame Love, being of one Accord, of one Mind.</hi>
+               </p>
+               <p>This is ſufficient to ſhew, that if Chriſtian Religion have taken poſſeſſion of our Hearts, and bear any ſway there, we ſhall be ſtrongly knit together as one Man, for the common Good of the whole Body to which we belong. And if we be, I have demonſtrated how much this will contribute to the Exaltation of our Nation, by Unity and Peace at Home.</p>
+               <p>IV. But ſuppoſe a Nation be aſſaulted from abroad, true Religion will make them <hi>couragious and undaunted,</hi> being the Mother of <hi>Fortitude and Valour;</hi> which raiſes the Power, Glory, and Reputation of a Nation to the greateſt height.</p>
+               <p>1. And this it doth, becauſe it unites them, as you have heard, in Bands of mutual Love and Kindneſs; which gives them confidence in each other, as well as moves them to join their common Counſels and joint Endeavours, for the Publick Good and Safety.</p>
+               <p>2. And then it makes all theſe Counſels and Enterpriſes go on ſmoothly and chearfully, without thoſe Rubs and Impediments which are wont to be raiſed by Fears, and Jealouſies, and Diſtruſts one of another.</p>
+               <p>3. And, <hi>thirdly,</hi> by increaſing their Treaſure, as I have ſaid, and giving them Publick Spirits to incline them to part with it for the Publick Good, it enables them to make ſuch Preparations
+<pb n="17" facs="tcp:93241:12"/>
+for mutual Defence, as Wiſdom and Counſel ſhall direct.</p>
+               <p>4. Which Preparations alſo are managed by Religion, with that Induſtry, Diligence, and Frugality before-mentioned: Upon which de<g ref="char:EOLhyphen"/>pends great likelihood of good Succeſs. For that Religion which makes a Man induſtrious in his private Calling, will much more engage him to the diligent and conſcientious diſcharge of any Publick Truſt committed to him.</p>
+               <p>All which tends to inſpire a People with Cou<g ref="char:EOLhyphen"/>rage, when they ſee they want Nothing that is neceſſary for their Defence; but only the Divine Aid and Succour<g ref="char:punc">▪</g> Which, as you ſhall hear a<g ref="char:EOLhyphen"/>non, they cannot reaſonably ſuſpect, will with<g ref="char:EOLhyphen"/>draw it ſelf from a People, <hi>fearing God, and working Righteouſneſs.</hi> No, quite contrary, they ought to be confident of his Preſence with them, eſpecially in all Straits and Difficulties: Which Confidence will marvelouſly heighten and raiſe their Courage and Reſolution. For as it natu<g ref="char:EOLhyphen"/>rally makes a Man very undaunted and valiant, when he is not conſcious to himſelf of any baſe Deſign or vile Practice: So Confidence in God, and full perſwaſion that he will be with us in an Undertaking, doth exceedingly increaſe and exalt that Courage which a good Conſcience breeds in us. And of this we ought not to doubt, when we are a truly Religious, Juſt and Holy People; devoted to the love of God, and of one another.</p>
+               <p>And as this mightily inſpires a Nation with Confidence; ſo this unanimous Courage and
+<pb n="18" facs="tcp:93241:13"/>
+Confidence in a Nation, no leſs daunts their Enemies; and either deters them from Invaſion, or diſheartens them in the Attempt: For who is able to ſtand before a great People, united among themſelves; that fight, not with divided Affecti<g ref="char:EOLhyphen"/>ons, nor to ſerve particular Intereſts and Factions, but for the Common Preſervation, and the Pub<g ref="char:EOLhyphen"/>lick Good?</p>
+               <p>And now that I mention, <hi>a Great People,</hi> it puts me in mind of another thing, which I will briefly touch.</p>
+               <p>V. True Religion exalteth a Nation, <hi>by in<g ref="char:EOLhyphen"/>creaſing it into a multitude of People:</hi> Which evi<g ref="char:EOLhyphen"/>dently gives it Renown, by making a People Powerful, and Formidable to its Neighbours; eſpecially, when it abounds with People, not of a feeble, but of an able and ſtrong Conſtitution of Body, as well as of vertuous Minds. For ſo this wiſe Man hath obſerved, a little before my Text, <hi>Verſ. 28. In the multitude of People is the King's Honour; but in the want of People, is the deſtruction of the Prince.</hi> Who is Nothing, if he have no Subjects: but the more numerous they are, the greater is his Force and his Splen<g ref="char:EOLhyphen"/>dor at Home, and his Fame and Reputation A<g ref="char:EOLhyphen"/>broad; which very much depends upon the populouſneſs of his Country, when it is ſto<g ref="char:EOLhyphen"/>red with ſuch worthy Perſons as I have deſcri<g ref="char:EOLhyphen"/>bed.</p>
+               <p>Now, True Religion increaſes a People into a Multitude, by <hi>chaſte Marriages,</hi> and baniſhing Fornication and vagrant Luſts: and alſo by that
+<pb n="19" facs="tcp:93241:13"/>
+healthful ſtate of Body, wherein Temperance, Soberneſs, Chaſtity and Induſtry, preſerves Mankind. This is ſo plain, that it needs no Proof; and is one Argument againſt that Impu<g ref="char:EOLhyphen"/>rity, Filthineſs, and Debauchery, which hath exceedingly abounded among us: That it not only ſhuts Men out of the Happineſs of the o<g ref="char:EOLhyphen"/>ther World, (as St. <hi>Paul</hi> ſhews, 1 <hi>Cor.</hi> vi. 9.) but haſtens them alſo out of this; weakens and deſtroys their Bodies; ſhortens their Life, diſ<g ref="char:EOLhyphen"/>peoples their Country; and makes a Nation fee<g ref="char:EOLhyphen"/>ble and puſilanimous, when it is generally in<g ref="char:EOLhyphen"/>fected with this Diſeaſe. Upon which account, it is the intereſt of all Princes, to puniſh the Vi<g ref="char:EOLhyphen"/>ces of this ſort, very ſeverely: not only as diſ<g ref="char:EOLhyphen"/>pleaſing to God, but as extreamly diſ-ſerviceable to themſelves.</p>
+               <p>VI. From all which I might ſhow how, <hi>Righteouſneſs exalteth a Nation,</hi> by inviting other People to reſort unto it, and increaſe its Num<g ref="char:EOLhyphen"/>bers: Either for their Education, or their Im<g ref="char:EOLhyphen"/>provement, among thoſe who have gained a great Reputation in the World, for their Wiſdom, or their Sobriety and Purity, or their Unity and good Government, their Induſtry, their Cou<g ref="char:EOLhyphen"/>rage, <hi>&amp;c.</hi> and all thoſe excellent Qualities from whence theſe things are derived.</p>
+               <p>But I need not add any thing more for the proof of what I undertook. Lay all theſe Conſidera<g ref="char:EOLhyphen"/>tions together, and if Wealth, if Wiſdom and Knowledg, if unanimous Affection to the Pub<g ref="char:EOLhyphen"/>lick Good, if Peace and Concord, if great num<g ref="char:EOLhyphen"/>bers
+<pb n="20" facs="tcp:93241:14"/>
+of People in Health and Strength, if Fame and Reputation, if Fortitude and Courage, if Counſel and Conduct, if confidence of Succeſs in all their Enterpriſes can raiſe and exalt the Glory of a Nation; then true Religion and Ver<g ref="char:EOLhyphen"/>tue, (ſerious Obedience to all the Laws of Chriſt) is the Exaltation of a Nation. For all theſe are the Fruits of Righteouſneſs, as I have plainly demonſtrated, when it is generally pra<g ref="char:EOLhyphen"/>ctiſed.</p>
+               <p>For ſo this Propoſition is to be underſtood; <hi>Righteouſneſs exalteth a Nation,</hi> when that Na<g ref="char:EOLhyphen"/>tion (that is) becometh Righteous. The ſole Vertue indeed of the Princes that govern it, may do much towards it. For <hi>a King that ſitteth in the Throne of Judgment,</hi> (ſaith this wiſe Man) <hi>ſcattereth away all Evil with his Eyes,</hi> xx. 8. and again, <hi>verſ. 26. A wiſe King ſcattereth the Wic<g ref="char:EOLhyphen"/>ked, and bringeth the Wheel over them;</hi> that is, pu<g ref="char:EOLhyphen"/>niſheth them ſeverely. <hi>Righteous Lips are the delight of Kings, (i. e.</hi> of ſuch <hi>wiſe</hi> Kings) <hi>and they love him that ſpeaketh right,</hi> xvi. 13. They promote, that is, vertuous Men, not Flatterers, ſuch as ſpeak what is true, not what they think will pleaſe, unto places of Truſt and Authority. And <hi>when the Righteous are in Authority, the Peo<g ref="char:EOLhyphen"/>ple rejoice: But when the wicked bear Rule, the People mourn,</hi> xxix. 2.</p>
+               <p>But though all this be true, yet it is becauſe ſuch Princes are the bleſſed Inſtruments of re<g ref="char:EOLhyphen"/>forming a Nation, (which begins in reforming the Court, and thoſe who are in Authority) by whoſe general Amendment, by the Peoples be<g ref="char:EOLhyphen"/>coming
+<pb n="21" facs="tcp:93241:14"/>
+truly Religious and Vertuous, this Ob<g ref="char:EOLhyphen"/>ſervation of the wiſe Man is compleatly fulfilled, that <hi>Righteouſneſs exalteth a Nation;</hi> by the ve<g ref="char:EOLhyphen"/>ry natural Effects of it, when it is heartily and univerſally practiſed.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>But theſe, though very great Advantages in themſelves, are ſmall in compariſon with that which follows, <hi>viz. The ſingular Favour and Bleſſing of the Divine Providence,</hi> which is pro<g ref="char:EOLhyphen"/>cured by the Righteouſneſs of a Nation.</p>
+               <p>For the underſtanding of which, it muſt be conſidered, that the Providence of God is the <hi>great and firſt Mover,</hi> which turns about all the Wheels of Humane Affairs, and orders how and whither they ſhall go: Whereby they are many times carried far otherwiſe than we deſign and contrive. This is a Truth ſo often noted in this Book, that from thence we may conclude it is a Matter of very great Moment: for it is not eaſy to number all the Places. xvi. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>The Prepara<g ref="char:EOLhyphen"/>tions of the Heart in Man, and the anſwer of the Tongue, is from the Lord;</hi> who gives, that is, what Succeſs he pleaſes to Mens Deliberations and Diſcourſes. And, <hi>Ver. 9. A Man's Heart deviſeth his Way, (i. e.</hi> deſigns and End, and the Means to it) <hi>but the Lord directeth his ſteps;</hi> to ſuch an iſſue, perhaps, as he never thought of<g ref="char:punc">▪</g> And again, <hi>ver.</hi> 33. of the ſame Chapter, <hi>The Lot is caſt into the Lap; but the whole diſpoſing thereof is of the Lord.</hi> The ſame we read, xlx.
+<pb n="22" facs="tcp:93241:15"/>
+21. <hi>There are many Devices in a Man's Heart; nevertheleſs the Counſel of the Lord, that ſhall ſtand.</hi> And, XX. 24. <hi>Man's goings are of the Lord; how can a Man then underſtand his own way?</hi> That is, as no Man can take one ſtep to<g ref="char:EOLhyphen"/>wards any thing he deſigns, without permiſſion from above: So it is impoſſible for him to know what the Succeſs will be of that which he pro<g ref="char:EOLhyphen"/>jects. xxi. 1. <hi>The King's Heart</hi> (on whoſe mo<g ref="char:EOLhyphen"/>tions, we know, the Fate of Kingdoms depend) <hi>is in the Hand of the Lord, as the Rivers of Water: he turneth it whitherſoever he will.</hi> Once more, <hi>Verſ.</hi> 30, 31. of the ſame Chapter; <hi>There is no Wiſdom, nor <g ref="char:V">Ʋ</g>nderſtanding, nor Counſel againſt the Lord. The Horſe is prepared againſt the Day of Battel; but ſafety is of the Lord; i. e.</hi> What<g ref="char:EOLhyphen"/>ſoever warlike Preparations any Prince ſhall make, though never ſo great, and never ſo well conducted and managed, all is to no purpoſe, un<g ref="char:EOLhyphen"/>leſs the LORD favour his Arms, and give good ſucceſs to his Counſels and Deſigns.</p>
+               <p>Which is the very Ground and Reaſon of our meeting here this day, to implore his Bleſſing upon their Majeſties and their Forces, by Sea and Land: Whereby we make a ſolemn acknowledgment of the Truth of what I have now ſaid, that the diſ<g ref="char:EOLhyphen"/>poſal of all Events depends upon the Providence of God: Which we ought, therefore, by all means to engage to be on our Side. Particularly, by humble, and fervent, and frequent Prayer to him: Which the Holy Scripture calls <hi>ſeeking the Face,</hi> that is, the Favour <hi>of God;</hi> who alone can make our way proſperous; and <hi>in whoſe fear</hi>
+                  <pb n="23" facs="tcp:93241:15"/>
+(as this wiſe Man ſpeaks, xiv. 26.) <hi>is ſtrong Confidence,</hi> of good Succeſs, that is, in all Enter<g ref="char:EOLhyphen"/>prizes, and Protection in all Dangers.</p>
+               <p>But if we have any ſerious belief of God, and of his Providence, we cannot imagine that it can be engaged to favour us, by our Prayers alone. They muſt never be omitted; but if we addreſs our ſelves to God, with no reſolutions of amend<g ref="char:EOLhyphen"/>ment, this very wiſe Man hath told us our Doom, in the xv. 8. <hi>The Sacrifice of the Wicked is an abomination to the Lord;</hi> He will reject it, eſpecially when he brings it <hi>with a wicked Mind,</hi> (xxi. 27.) as if he thought, by his Sacrifices, to bribe the Divine Majeſty, and perſwade him to wink at his Sins. <hi>But,</hi> on the other ſide, he tells us in the very ſame Breath, <hi>The Prayer of the <g ref="char:V">Ʋ</g>pright is his delight:</hi> Which he repeats in the <hi>29th</hi> Verſe, <hi>The Lord is far from the Wicked; but he heareth the Prayer of the Righteous.</hi> Who devoutly acknowledging the Divine Providence, and alſo ſtudying ſincerely to obſerve his Com<g ref="char:EOLhyphen"/>mands; prevail with him to give them what they deſire; his Favour, Protection, and Bleſ<g ref="char:EOLhyphen"/>ſing, to proſper them in all their Underta<g ref="char:EOLhyphen"/>kings.</p>
+               <p>
+                  <hi>The Wicked worketh a deceitful Work; but to him that ſoweth Righteouſneſs, ſhall be a ſure Reward.</hi> He deceives himſelf, that is, who thinks to raiſe him<g ref="char:EOLhyphen"/>ſelf to Greatneſs by wicked Devices; in which he may proſper a while, but the Event at laſt will diſ<g ref="char:EOLhyphen"/>appoint his Expectations: When truly religious Men ſhall infallibly reap the Fruit of their pious, juſt, and charitable Labours for the good of
+<pb n="24" facs="tcp:93241:16"/>
+others. The like we read, xii. 3. <hi>A Man ſhall not be eſtabliſhed by Wickedneſs: but the Root of the Righteous ſhall not be moved.</hi> And here in this Chapter, <hi>Verſ. 11. The Houſe of the Wicked ſhall be overthrown; but the Tabernacle of the Righ<g ref="char:EOLhyphen"/>teous ſhall flouriſh.</hi> There was a great difference between an <hi>Houſe</hi> and a <hi>Tabernacle;</hi> the former being built ſtrong and firm, to endure for an Age or ſeveral Generations: but the other (a <hi>Taber<g ref="char:EOLhyphen"/>nacle</hi>) was reared up only for a Time, ſlightly jointed and put together, to be taken down and carried, on a ſudden, any whither. And ſuch is the Providence of God, the wiſe Man obſerves, over the Righteous, that he makes his weak Ta<g ref="char:EOLhyphen"/>bernacle abide and flouriſh; when the very Houſe of the Wicked not only decays, but is overturn<g ref="char:EOLhyphen"/>ed. Thus the World hath ſeen many Potent Princes put down from their Seat, and ſmall ones raiſed up in their ſtead; according to the diſcourſe of the pious Father of this wiſe Man, who bids us mark what he ſaith<g ref="char:punc">▪</g> 
+                  <hi>Pſalm.</hi> xxxiii. where, after he had ſaid, <hi>Verſ. 16. 17. There is no King ſaved by the multitude of an Hoſt: a mighty Man is not delivered by much ſtrength. An Horſe is a vain thing thing to ſave a Man,</hi> &amp;c. He adds immediately, <hi>Verſ. 18. Behold,</hi> take notice of this, <hi>the Eye of the Lord is upon them that fear him,</hi> (of ſuch he will take a ſpecial care, and ex<g ref="char:EOLhyphen"/>erciſe a moſt tender and watchful Providence o<g ref="char:EOLhyphen"/>ver them) <hi>upon them that hope in his Mercy: to deliver their Soul from Death, and to keep them a<g ref="char:EOLhyphen"/>live in time of Famine:</hi> To preſerve them, that is, in the greateſt Dangers, and deliver them out of the greateſt Straits.</p>
+               <p>
+                  <pb n="25" facs="tcp:93241:16"/>And truly the Providence of God is in juſtice ingaged to give Countenance and Incouragement to true Piety and Vertue in the World. And though it do not move always ſo ſwiftly as we expect and deſire, yet we may obſerve there have been ſuch Revolutions of Providence in all Na<g ref="char:EOLhyphen"/>tions, in one Age or other, as have ſufficiently demonſtrated how much God concerns himſelf, to bleſs thoſe who live in obſervance of him, and to puniſh thoſe who do otherwiſe.</p>
+               <p>I will not preſume, now that it is time to draw towards a Concluſion, to lay before you the ſtory of the Jews, over whom this wiſe King reigned; but only ſay, that as God had choſen them, from among all Nations, to be his People, planted them in a choſen Land, and bleſſed them with wiſe and holy Laws, promiſed them all manner of Felicity, upon condition of their Obe<g ref="char:EOLhyphen"/>dience: So, notwithſtanding this peculiar rela<g ref="char:EOLhyphen"/>tion to him, the ſame Providence which pro<g ref="char:EOLhyphen"/>miſed them Protection, Safety and Proſperity, if they obeyed him, threatned to abandon them unto inevitable Ruin, if they forſook him and re<g ref="char:EOLhyphen"/>belled againſt him. Whence thoſe remarkable words, <hi>Deut. v. 29. O that there were ſuch an Heart in them, that they would fear me, and keep my Commandments always, that it might be well with them,</hi> &amp;c. Where he ſpeaks as if it were not in his own Power to bleſs them, unleſs they would fear and obey him always; becauſe God cannot do that at all, which he cannot do con<g ref="char:EOLhyphen"/>ſiſtently with his Wiſdom, Juſtice, and Ho<g ref="char:EOLhyphen"/>nour.</p>
+               <p>
+                  <pb n="26" facs="tcp:93241:17"/>And however Divine Providence may pleaſe to order things in thoſe Nations who are not ſo nearly related to him; yet we cannot but think he will deal with us Chriſtians, who are now be<g ref="char:EOLhyphen"/>come what they were, <hi>his peculiar People,</hi> by the very ſame Meaſures he dealt with them; that is, Bleſs us, or Curſe us<g ref="char:punc">▪</g> according as we obſerve or break his Holy Laws.</p>
+               <p>But I ſee no reaſon to queſtion his making this diſtinction even among Infidels, who know not the Laws of Jeſus Chriſt: if we may judge of what he doth now, by what he did in ancient times. When the Heathens themſelves obſerved this difference, as appears by the Writers of the <hi>Roman</hi> Story: who take notice, that while they were ſtrict obſervers of the Law of Nations, and continued Religious, frugal, induſtrious, ſober, and moderate, (as they were in their beginning) God's Bleſſing reſted upon them, and they pro<g ref="char:EOLhyphen"/>ſpered wonderfully, whitherſoever they went<g ref="char:punc">▪</g> But when they grew impious, luxurious, broke their Faith, abounded with all manner of Vice, they ſoon dwindled, grew weak, and loſt their large Dominions they had in the World. And had they been at the firſt riſe of their Empire, as vain as the <hi>Greeks,</hi> (to uſe the Words of a great Divine of our own, in the days before us)<note place="margin">Dr. <hi>Jackſon.</hi>
+                  </note> as Luxurious as the <hi>Aſiaticks,</hi> as Perfidious as the <hi>Carthaginians,</hi> as uncivil and Barbarous as many other Nations, whom they conquer'd; they could not have been ſo conſtantly fortunate in their<g ref="char:punc">▪</g> Enterprizes, at home and abroad, as they were for many years.</p>
+               <p>
+                  <pb n="27" facs="tcp:93241:17"/>God, indeed, is a debter to no body: but ſuch is his Bounty, ſuch his love to Righteouſneſs, of whatſoever ſort it be, That he will not ſuffer moral Vertue, civil Juſtice, Honeſty and Truth, and conſtant execution of Laws, which in their kind and degree are good, to be wholly unre<g ref="char:EOLhyphen"/>warded: But by ſuch means any Nation in the World may be exalted above thoſe who are other<g ref="char:EOLhyphen"/>ways diſpoſed.</p>
+               <p>How much more then may Chriſtian People expect this Favour from the Lord, in the faithful obſervance of his holy Laws? Did true Righ<g ref="char:EOLhyphen"/>teouſneſs, for inſtance, prevail in this Chriſtian Kingdom, what an happy People might we be? As happy, as we have made our ſelves notorious to all the World, for the Puniſhments God hath inflicted on us.</p>
+               <p>What were the late Civil Wars, and the woful Effects of them, but the Calamities which God ſent upon a ſinful People, for our diſobedience to him? And ſince the wonderful Reſtoration of the Royal Family and the Monarchy, What were the Peſtilence, the Fire, and other Judgments, which preſently enſued, but tokens of God's con<g ref="char:EOLhyphen"/>tinued diſpleaſure againſt us, for our abuſe of his loving-kindneſs? We rioted upon his Mercies; <hi>We waxed fat and kicked againſt him;</hi> we abandon'd our ſelves to Luſt, Pride, and Idleneſs, and to all manner of Debauchery; nay, to Irreligion, Atheiſm and Infidelity: for which cauſe thoſe heavy Calamities fell upon us. And what was the effect of them? After we had felt the ſmart of ſo many terrible Judgments, we fell into ſuch
+<pb n="28" facs="tcp:93241:18"/>
+implacable Animoſities, and deadly Hatreds one againſt another, that we drew upon our ſelves the greateſt Plague of all, that of <hi>Popery.</hi> Which had ſet up its <hi>Chappels, Schools,</hi> and <hi>Convents</hi> among us; and, had not God's Mercy prevented by our late marvellous Deliverance, would have brought in thoſe, <hi>Whipps,</hi> and <hi>Gibbets,</hi> and <hi>Racks,</hi> and <hi>Fires,</hi> and other Inſtruments of Crueity, wherewith we have ſeen it, torturing the Bodies and Souls of innumerable good Men and Women, in <hi>France,</hi> and in other places. And ſhall we ſtill adventure to continue an unreformed Nation, be<g ref="char:EOLhyphen"/>cauſe God hath ſpared us from utter ruine? <hi>After all this is come upon us, for our evil Deeds,</hi> as <hi>Ezra</hi> ſpeaks, and <hi>for our great Treſpaſs, and after he hath given us ſuch a Deliverance as this,</hi> which we have lately received, <hi>ſhall we again break his Command<g ref="char:EOLhyphen"/>ments?</hi>
+               </p>
+               <p>What a ſtrange thing will it be, not to believe our own Experience, though we would not believe God's Holy Word? Which now, one would think, ſhould have greater credit with us, when we have ſeen it ſo fully verified in our ſelves, <hi>that Sin is a reproach to any People.</hi> Which, in reaſon, ſhould move us to try the Truth of the other part of my Text, of which I have now treated; and by working Righteouſneſs, ſatisfy our ſelves how it will exalt us. As I have proved it will, not only by its own natural Conſequences (there being no Vertue, which tends not to grea<g ref="char:EOLhyphen"/>ten a Nation that lives in the practice of it) but by the ſpecial Bleſſing of the Almighty; whoſe Method this is, which he conſtantly ob<g ref="char:EOLhyphen"/>ſerves,
+<pb n="29" facs="tcp:93241:18"/>
+to <hi>bleſs the righteous, and compaſs him with his favour as with a ſhield.</hi>
+               </p>
+               <p>Hear this Wiſe-man once more, <hi>Prov.</hi> x. 29. <hi>The way of the Lord is ſtrength to the upright; but deſtruction ſhall be to the workers of iniquity. The way of the Lord,</hi> that is, this is the divine Method to give ſtrength and power to upright men: or the very obſervance of the Rules of ver<g ref="char:EOLhyphen"/>tue (which may be meant here by <hi>the way of the Lord</hi>) the keeping cloſe to God's Laws, and walk<g ref="char:EOLhyphen"/>ing in his ways, inſpires the Upright with courage and reſolution, when any evil threatens them: but <hi>the workers of iniquity</hi> are ſeeble and poor ſpiri<g ref="char:EOLhyphen"/>ted; and ſhall be broken in pieces by that deſtru<g ref="char:EOLhyphen"/>ction, which is coming upon them. His Father gives the reaſon of it, <hi>Pſal.</hi> xii. <hi>ult. The righteous Lord loveth righteouſneſs, his countenance doth behold the upright.</hi> Let us love righteouſneſs then, that we may be beloved of the Lord. And if we have any Authority, let upright men have our counte<g ref="char:EOLhyphen"/>nance and favour (as the glory and ſtrength of the Nation, the Chariots and Horſe-men for the ſafegard of their Countrey) that the righteous Lord may countenance us in all our ways and pro<g ref="char:EOLhyphen"/>ceedings, and we may find him propitious to us on all occaſions.</p>
+               <p>That's the uſe we ought to make of what hath been ſaid.</p>
+               <p>1. Firſt, Let every one of us, being convinced of theſe Truths, and ſeriouſly reflecting on them, reſolve to conſult the ſafety and happineſs of the Kingdom, of which we are Members; by betaking
+<pb n="30" facs="tcp:93241:19"/>
+our ſelves hereafter to a religious courſe of life, in all holineſs and righteouſneſs all our days. Let us begin it this day; by making it a day, not only of humiliation, but of ſerious and unfeigned repen<g ref="char:EOLhyphen"/>tance. Let it conclude in ſolemn Reſolutions of amendment of life. That, as by Wickedneſs this Nation hath been laid low, and made deſpicable in the eyes of all our Neighbours; who neither loved nor feared us, becauſe we had forſaken both our own, and their true Intereſt: ſo we may raiſe the Reputation of it, and make it great, eminent and illuſtrious, by the faithful practice of true Re<g ref="char:EOLhyphen"/>ligion and Vertue.</p>
+               <p>2. And let us not only <hi>make</hi> this Reſolution, but <hi>make it good:</hi> by calling it often to mind; by repre<g ref="char:EOLhyphen"/>ſenting to our ſelves the advantages of ſincere pie<g ref="char:EOLhyphen"/>ty, even in this preſent life; by ſetling this per<g ref="char:EOLhyphen"/>ſuaſion in our mind, that it is the Intereſt of the Nation to be religious. Which cannot fail to ſway our affection to it: and what we love, we always purſue till we have attained it. If we love then our ſelves, if we love our Nation, if we love their Majeſties, our Government, our Countrey; we ſhall love righteouſneſs.</p>
+               <p>3. And ſince Righteouſneſs <hi>exalteth a Nation,</hi> it is our intereſt to do all we can to <hi>exalt righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> and advance it to the greateſt heigth; by being <hi>zealous of good works.</hi> We have been very zealous for things of little moment, in compariſon with the weighty matters of God's Laws; very zea<g ref="char:EOLhyphen"/>lous to undo one another, and to ruine our Country: Let us now be as zealous for our common ſafety and preſervation, by bending our moſt earneſt en<g ref="char:EOLhyphen"/>deavours,
+<pb n="31" facs="tcp:93241:19"/>
+                  <hi>to provoke one another to love and to good works;</hi> to be ſincerely good our ſelves, and to make others ſo likewiſe, as much as lies in our power: That is, devoutly pious; ſtrictly juſt and merciful; temperate and ſober; diligent and indu<g ref="char:EOLhyphen"/>ſtrious in our ſeveral Callings and Offices; pub<g ref="char:EOLhyphen"/>lick ſpirited; zealouſly concerned for the com<g ref="char:EOLhyphen"/>mon good; kindly affectioned one to another in brotherly love; forgiving one another, if any man have a quarrel againſt any; as earneſt againſt re<g ref="char:EOLhyphen"/>venge, as perhaps we have been for it; ſtudying the things that make for peace; labouring to con<g ref="char:EOLhyphen"/>vince men of their errors, with the meekneſs of wiſdom; bearing with thoſe whom we cannot con<g ref="char:EOLhyphen"/>vince; by no means quarrelling one with another about different Opinions: but joining with one heart, and one Soul, for the defence of our Reli<g ref="char:EOLhyphen"/>gion, and our Countrey; our Laws and Liberties.</p>
+               <p>Then we may promiſe to our ſelves the Di<g ref="char:EOLhyphen"/>vine Protection and Bleſſing: God will make us great and powerful: and we ſhall tread upon the necks of our Enemies. He will hear our Prayers which we have now made unto him (and I hope will continue to make every day, becauſe nothing, as you have heard, can proſper without his Bleſſing) for the ſafety of Their Majeſties, and the Succeſs of Their Arms, in Their preſent great Undertaking for the neceſſary defence of Their People. We need not <hi>fear what man can do unto us;</hi> no, nor fear <hi>the arrows of the Almighty,</hi> I mean the raging Peſtilence; nor devouring <hi>Fire;</hi> nor that <hi>Flood</hi> neither, which St. <hi>John</hi> ſaw the Dragon pour out of his mouth, to drown the Church; that is, <hi>Popiſh Perſecution.</hi>
+               </p>
+               <p>
+                  <pb n="32" facs="tcp:93241:20"/>That grand Oppreſſor, who hath raiſed himſelf by methods, quite contrary to this of <hi>Solomon;</hi> and, as if he intended to diſprove the truth of God's word, hath indeavoured to exalt his Nation, by nothing but Fraud and Forgery, Perfidiouſneſs and Perjury, by breaking his Faith, and violating Leagues and Solemn Treaties, by Wrong and Rob<g ref="char:EOLhyphen"/>bery, nay, by the utmoſt degree of Cruelty and Barbarity; this haughty Oppreſſor, I ſay, who hath ruin'd many other Countries as well as his own, ſhall not be able to hurt us: But God will ſucceed their Majeſties in the War wherein we are now engaged againſt him, and make them go on proſperouſly, <hi>becauſe of truth, meekneſs and righte<g ref="char:EOLhyphen"/>ouſneſs.</hi>
+               </p>
+               <p>For ſince that Nation hath ſo highly affronted the Divine Majeſty (as well as abuſed all Mankind with whom they have had to do) as ſure as God is in Heaven, he will lay them low: becauſe they have been ſo Atheiſtical, as to advance themſelves by all manner of Falſhood and Treachery, Injuſtice and Cruelty; having mockt at thoſe Vertues (Truth and Honeſty, <hi>&amp;c.</hi>) without which the World cannot ſubſiſt, but muſt be turned into a Wilderneſs.</p>
+               <p>We cannot appoint Times and Seaſons unto the Almighty Wiſdom: but if the univerſal deſire of all Nations could prevail with God, we might be confident the time is come, wherein he will <hi>bring down the high looks of the proud</hi> (if I may apply the words of the <hi>Pſalmiſt</hi> to this matter) and <hi>ſave the poor afflicted people,</hi> upon whom he hath trampled with ſcornful pride and cruelty.</p>
+               <p>
+                  <pb n="33" facs="tcp:93241:20"/>He and his Adherents cannot long proſper, one would think, by ſuch impious Politicks, as they have practiſed: but <hi>the righteous Lord, who ſitteth in the Throne, judging right;</hi> will make all the World ſee by the judgment he will execute upon them, that he <hi>loveth the righteous; but the wicked and him that loveth violence, his ſoul hateth. <g ref="char:V">Ʋ</g>pon the wicked he will rain ſnares, fire and brimſtone, and an horrible tempeſt: this ſhall be their portion to drink.</hi>
+               </p>
+               <p>But ſuppoſe God ſhould defer this Vengeance for ſome time, and ſuffer him to be a further ſcourge to a ſinful World; nay, ſhould let him be the <hi>rod of his anger</hi> to chaſtiſe us for our ingratitude to him: yet theſe three things are certainly true.</p>
+               <p>1. <hi>Firſt,</hi> That he will not always bear with im<g ref="char:EOLhyphen"/>pious Oppreſſors: but <hi>though hand join in hand</hi> (as <hi>Solomon</hi> ſpeaks, xi. 21. though one oppreſſor join to help another) <hi>the wicked ſhall not go unpuniſhed.</hi>
+               </p>
+               <p>2. And that Puniſhment will be very terrible when it comes. For <hi>though mercy will ſoon pardon the meaneſt</hi> (as it is in the Book of Wiſdom, vi. 4.) <hi>yet mighty men ſhall be mightily tormented;</hi> becauſe being Miniſters of his Kingdom, they abuſed his Power, and that wantonly; having abundant means to pleaſe themſelves, without doing the leaſt hurt unto others.</p>
+               <p>3. And this Comfort, in the mean time, may be adminiſtred unto all thoſe who have amended their lives, and grown better by God's former Judg<g ref="char:EOLhyphen"/>ments, or by our late Deliverance; that they will find God favourable unto them, to protect and de<g ref="char:EOLhyphen"/>liver them, in <hi>the needful time of trouble,</hi> ſhould it
+<pb n="34" facs="tcp:93241:21"/>
+pleaſe him to let it come again to try them. So we are aſſured by this Wiſe-man; who hath left us Inſtructions of this kind alſo. You may find a great many together in the beginning of the Ele<g ref="char:EOLhyphen"/>venth Chapter, v. 3, 4, 5, 6. which are all I ſhall mention: <hi>The integrity of the upright ſhall guide them; but the perverſeneſs of tranſgreſſors ſhall de<g ref="char:EOLhyphen"/>stroy them. Riches profit not in the day of wrath; but righteouſneſs delivereth from death. The righ<g ref="char:EOLhyphen"/>teouſneſs of the perfect ſhall direct his way; but the wicked ſhall fall by his own wickedneſs. The righte<g ref="char:EOLhyphen"/>ouſneſs of the upright ſhall deliver them; but tranſ<g ref="char:EOLhyphen"/>greſſors ſhall be taken in their own naughtineſs.</hi> The Senſe of all which is this, That the higheſt Wiſ<g ref="char:EOLhyphen"/>dom, is to be ſincerely good. There is no Policy, comparable to perfect Integrity: Which in diffi<g ref="char:EOLhyphen"/>cult times will guide and direct a man unto the ſu<g ref="char:EOLhyphen"/>reſt way for his preſervation: When nothing elſe will ſecure him; but contrary Courſes inevitably lead him unto his ruin.</p>
+               <p>
+                  <hi>God, of his Infinite Mercy, grant, That as we un<g ref="char:EOLhyphen"/>derſtand theſe things, ſo we may conſider them, and lay them to heart; yea, lay them up in our heart, and reflect upon them as frequently as they are repeated in this Book; that we may make them the rule of our actions, and truſt to them as the moſt certain way to <hi>Safety</hi> and <hi>Security</hi> (if not <hi>Proſperity</hi>) in this World; as well as to Eternal <hi>Felicity</hi> in a better Life.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 4. l. 1, 2. r. <hi>this word.</hi> Pag. 13. l. 10. r. <hi>Neighbours.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:93241:21"/>
+            <head>Books lately Printed for <hi>Richard Chiſwell.</hi>
+            </head>
+            <list>
+               <item>THE Fifteen <hi>Notes</hi> of the <hi>Church,</hi> as laid down by Cardinal <hi>Bel<g ref="char:EOLhyphen"/>larmin,</hi> examined and confuted, by ſeveral <hi>London</hi> Divines, 4<hi rend="sup">o</hi>. With a Table to the whole, and the Authors Names.</item>
+               <item>An Expoſition of the Ten Commandments, by Dr. <hi>Simon Patrick,</hi> now Lord Biſhop of <hi>Chicheſter.</hi>
+               </item>
+               <item>The <hi>Lay Chriſtian's</hi> Obligation to read the Holy Scriptures: By Dr. <hi>Stratford,</hi> now Lord Biſhop of <hi>Cheſter.</hi>
+               </item>
+               <item>The <hi>Texts</hi> which the <hi>Papiſts</hi> cite out of the <hi>Bible</hi> for proof of the Points of their Religion, examined, and ſhew'd to be alledged with<g ref="char:EOLhyphen"/>out ground. In twenty five diſtinct Diſcourſes; by ſeveral <hi>London Divines,</hi> with a Table to the whole, and the <hi>Authors</hi> Names.</item>
+               <item>The Caſe of Allegiance in our preſent Circumſtances conſidered; in a Letter from a Miniſter in the City, to a Miniſter in the Coun<g ref="char:EOLhyphen"/>try. 4<hi rend="sup">o</hi>.</item>
+               <item>Two Sermons, one againſt Murmuring, the other againſt Cen<g ref="char:EOLhyphen"/>ſuring: By <hi>Simon Patrick,</hi> D. D. now Lord Biſhop of <hi>Chicheſter.</hi>
+               </item>
+               <item>Mr. <hi>Tully's</hi> Sermon of Moderation, before the Lord Mayor, <hi>May</hi> 12. 1689.</item>
+               <item>An Examination of the Scruples of thoſe who refuſe to take the Oath of Allegiance. By a Divine of the Church of <hi>England.</hi>
+               </item>
+               <item>A Dialogue between two Friends, a <hi>Jacobite,</hi> and a <hi>Williamite;</hi> occaſioned by the late Revolution of Affairs, and the Oath of Allegi<g ref="char:EOLhyphen"/>ance.</item>
+               <item>The Caſe of Oaths Stated, 4<hi rend="sup">o</hi>.</item>
+               <item>Mr. <hi>Strypes</hi> Sermon at the Aſſizes at <hi>Hertford, July</hi> 8. 1689.</item>
+               <item>A Letter from a <hi>French</hi> Lawyer to an <hi>Engliſh</hi> Gentleman, upon the preſent Revolution. 4<hi rend="sup">o</hi>.</item>
+               <item>The Advantages of the Preſent Settlement, and the great danger of a Relapſe.</item>
+               <item>The Intereſt of <hi>England</hi> in the preſervation of <hi>Ireland.</hi>
+               </item>
+               <item>A ſhort View of the Unfortunate Reigns of theſe Kings, <hi>William</hi> the 2d. <hi>Henry</hi> the 2d. <hi>Edward</hi> the 2d. <hi>Richard</hi> the 2d. <hi>Charles</hi> the 2d. and <hi>James</hi> the 2d.</item>
+               <item>Dr. <hi>Sherlock's</hi> Summary of the Controverſies between the <hi>Church of</hi> England and <hi>Church of</hi> Rome.</item>
+               <item>The Plain Man's Reply to the Catholick Miſſionaries.</item>
+               <item>Dr. <hi>Wake's Proparation for Death.</hi>
+               </item>
+               <item>—His Tracts and Diſcourſes againſt <hi>Popery,</hi> in two Vol. 4<hi rend="sup">o</hi>.</item>
+               <item>—His twelve Sermons and Diſcourſes, on ſeveral Occaſions. 8<hi rend="sup">o</hi>.</item>
+               <item>The Devout Communicant, aſſiſted with Rules for the worthy Receiving: Together with Meditations, Prayers, Anthems, for every Day in the Holy Week.</item>
+               <item>
+                  <hi>Valentine's</hi> private Devotions, digeſted into fix Litanies, with Di<g ref="char:EOLhyphen"/>rections and Prayers for the Lord's-day, Sacrament, day of Death and judgment.</item>
+               <item>
+                  <pb facs="tcp:93241:22" rendition="simple:additions"/>Biſhop <hi>Burnet's</hi> Sermon before the King and Queen on <hi>Chriſtmas<g ref="char:EOLhyphen"/>day,</hi> 1689.</item>
+               <item>—His Sermon of Peace and Union, <hi>Nov.</hi> 26. 1689.</item>
+               <item>—His Faſt-Sermon at <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Church, March</hi> 12. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</item>
+               <item>Some Remarks upon the Eccleſiaſtical Hiſtory of the Ancient Churches of <hi>Piedmont.</hi> By <hi>P. Allix,</hi> D. D. 4<hi rend="sup">o</hi>.</item>
+               <item>
+                  <hi>Geologia</hi> Or, A Diſcourſe concerning the Earth before the De<g ref="char:EOLhyphen"/>luge, wherein the Form and Properties aſerihed to it, in a Book inti<g ref="char:EOLhyphen"/>tuled [<hi>The Theory of the Earth</hi>] are excepred againſt. And it is made appear, That the Diſſolution of that Earth was not the Cauſe of the Univerſal Flood. Alſo a new Explication of that Flood is attempted. By <hi>Eraſmus Warren,</hi> Rector of <hi>Worlington</hi> in <hi>Suffolk</hi>
+               </item>
+               <item>A <hi>Private Prayer</hi> to be uſed in difficult Times</item>
+               <item>A <hi>Thanksgiving</hi> for our late wonderful Deliverance: [recommend<g ref="char:EOLhyphen"/>ed chiefly to thoſe who have made uſe of the Prayer in the late difficult Times]</item>
+               <item>A <hi>Prayer</hi> for perfecting our late Deliverance by the happy Succeſs of their Majeſties Forces by <hi>Sea</hi> and <hi>Land.</hi>
+               </item>
+               <item>A Prayer for Charity, Peace and Unity, chifley to be uſed in <hi>Lant.</hi>
+               </item>
+               <item>Dr. <hi>Teniſon's</hi> Sermon of Diſcretion in giving Alms, 12<hi rend="sup">o</hi>.</item>
+               <item>—His Faſt-Sermon before the Houſe of Commons <hi>June</hi> 5 1689.</item>
+               <item>—His Sermon concerning doing Good to Poſtery. Preached be<g ref="char:EOLhyphen"/>fore Their Majeſties at <hi>Whitehall,</hi> on <hi>Feb.</hi> 16. 1689 / 90.</item>
+               <item>Dr. <hi>Wake's</hi> Lent-Sermon before the Queen, <hi>April</hi> 2. 1690.</item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <head>An Advertiſement.</head>
+            <p>THere is newly Printed, <hi>A Large Folio Bible of a fair new Ro<g ref="char:EOLhyphen"/>man Letter,</hi> with Annotations, and Parallel Scriptures or Re<g ref="char:EOLhyphen"/>ferences (ſome Thouſands more than are in the <hi>Cambridge, Ox<g ref="char:EOLhyphen"/>ford,</hi> or any <hi>London</hi> Bibles yer Extant) To which is annexed, The Harmony of the Goſpels: As alſo a Reduction of the <hi>Jewiſh</hi> Weights, Coins and Meaſures, to our <hi>Engliſh</hi> Standards. And a Table of the Promiſes in Scripture.</p>
+            <p>
+               <hi>In One intire Volume, containing Three hundred twenty five Shoets in Good Demy Paper.</hi> Propoſed by the Bookſellers undermentioned on theſe Terms, <hi>viz.</hi>
+            </p>
+            <p>I. He that Buys only one Book, to pay Twenty five Stillings Un<g ref="char:EOLhyphen"/>bound.</p>
+            <p>II He that Buys Six Books, ſhall have a Seventh <hi>Gratis;</hi> which reduces the Price to a Guinea Unbound.</p>
+            <p>Which Terms are to continue until the Firſt of <hi>July</hi> next: But after that, no ſeventh Book will be allowed, nor a ſingle Book fold under Twenty ſeven Shillings Unbound.</p>
+            <p>
+               <hi>Richard Chiſwell, Jonathan Robinſon,</hi> both in St. <hi>Paul's</hi> Church-yard<g ref="char:punc">▪</g> 
+               <hi>Brabazon Aylmer</hi> againſt the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi>
+            </p>
+            <pb facs="tcp:93241:22"/>
+         </div>
+      </back>
+   </text>
+</TEI>
